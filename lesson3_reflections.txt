@@ -1,0 +1,3 @@
+What would you want to create a remote repository rather than keeping all your wark local?
+It enables remote work on the one project for many people.
+I can work on my project on many machines in many places.

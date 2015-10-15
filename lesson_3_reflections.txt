@@ -1,3 +1,6 @@
 What would you want to create a remote repository rather than keeping all your wark local?
 It enables remote work on the one project for many people.
 I can work on my project on many machines in many places.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because I have better control.
